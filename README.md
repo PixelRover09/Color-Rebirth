@@ -12,3 +12,9 @@ Utilizza tecniche di segmentazione per isolare gli oggetti in base alle indicazi
 
 -Interfaccia Utente Intuitiva:
 Offre una GUI semplice e funzionale (basata su electron con nodejs per interfacciarsi tramite drive per elaborare il progetto in coolab) che facilita l'elaborazione e la personalizzazione del video.
+
+TECNOLOGIE UTILIZZATE:
+Python con OpenCV per l'elaborazione dei video
+PyTorch (con supporto CUDA) per l'esecuzione dei modelli di deep learning
+DeOldify per la colorizzazione dei video
+Electron per l'interfaccia grafica
